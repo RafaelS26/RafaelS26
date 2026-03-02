@@ -9,6 +9,6 @@
 ​Automação com Python: Otimizando tarefas repetitivas de tratamento de dados.
 ​
 ### Detalhes 
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=RafaelS26&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelS26&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
