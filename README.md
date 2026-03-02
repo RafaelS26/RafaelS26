@@ -14,6 +14,6 @@
 ![Meus Projetos](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RafaelS26&theme=dark)
 
 ### Linguagens ultilizadas
-![Linguagens mais usadas](https://github-profile-summary-cards.vercel.app/api/cards/most-used-languages?username=RafaelS26&theme=dark)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelS26&layout=compact&theme=dark)
 
 
