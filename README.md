@@ -8,7 +8,7 @@
 ​SQL & Bancos de Dados: Extraindo informações de forma estruturada e rápida.
 ​Automação com Python: Otimizando tarefas repetitivas de tratamento de dados.
 ​
-### Detalhes 
+### Detalhes
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=RafaelS26&show_icons=true&theme=dark)
 
 
