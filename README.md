@@ -11,3 +11,5 @@
 ### Detalhes
 ![Estatísticas do Rafael](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RafaelS26&theme=dark)
 
+### Projetos
+![Meus Projetos](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RafaelS26&theme=dark)
