@@ -1,16 +1,14 @@
-## Hi there 👋
+👋 Olá, eu sou o Rafael!
+​📊 Analista de Dados
+​Sou apaixonado por transformar dados brutos em decisões inteligentes. Atualmente, foco em explorar bases de dados, realizar limpezas eficientes e criar visualizações que contam uma história clara sobre os números.
 
-<!--
-**RafaelS26/RafaelS26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+​🚀 No que venho trabalhando:
+​Análise Exploratória: Descobrindo padrões e tendências em conjuntos de dados.
+​Data Visualization: Transformando métricas complexas em dashboards intuitivos.
+​SQL & Bancos de Dados: Extraindo informações de forma estruturada e rápida.
+​Automação com Python: Otimizando tarefas repetitivas de tratamento de dados.
+​
+### Detalhes 
+[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=RafaelS26&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
