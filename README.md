@@ -13,3 +13,10 @@
 
 ### Projetos
 ![Meus Projetos](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RafaelS26&theme=dark)
+
+
+### 📊 Minhas Estatísticas
+![Estatísticas](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RafaelS26&theme=dark)
+
+### 📂 Visão Geral de Projetos
+![Projetos](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RafaelS26&theme=dark)
