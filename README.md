@@ -1,7 +1,7 @@
 👋 Olá, eu sou o Rafael
 ### ​📊 Analista de Dados
 
-​Sou apaixonado por transformar dados brutos em decisões inteligentes. Atualmente, foco em explorar bases de dados, realizar limpezas eficientes e criar visualizações que contam uma história clara sobre os números.
+​Analista de Dados em formação, com foco em SQL, modelagem relacional e automação de processos com Python. Busco oportunidades onde eu possa gerar impacto real através de análise estruturada e tomada de decisão orientada por dados.
 
 ​🚀 No que venho trabalhando:
 ​Análise Exploratória: Descobrindo padrões e tendências em conjuntos de dados.
