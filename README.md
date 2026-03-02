@@ -1,5 +1,6 @@
 👋 Olá, eu sou o Rafael!
 ​📊 Analista de Dados
+
 ​Sou apaixonado por transformar dados brutos em decisões inteligentes. Atualmente, foco em explorar bases de dados, realizar limpezas eficientes e criar visualizações que contam uma história clara sobre os números.
 
 ​🚀 No que venho trabalhando:
