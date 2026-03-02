@@ -13,7 +13,13 @@
 ### Projetos
 ![Meus Projetos](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RafaelS26&theme=dark)
 
-### Linguagens ultilizadas
-![Linguagens do Rafael](https://github-profile-summary-cards.vercel.app/api/cards/most-used-languages?username=RafaelS26&theme=dark)
+### 🛠️ Ferramentas e Tecnologias:
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/sql-%2300758f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 
