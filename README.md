@@ -1,10 +1,3 @@
-<img width="5120" height="2022" alt="roronoa-zoro-5120x2880-19795 (2) (1)" src="https://github.com/user-attachments/assets/38a833f5-1f25-4ced-8b0a-ae0f87e48039" />
-</div>
----
-<div align="center">
-<img src="https://i.imgur.com/SUA_IMAGEM_AQUI.png" width="140px" style="border-radius: 50%"/>
-  
-<br/>
 
 ```
         ██████╗  █████╗ ███████╗ █████╗ ███████╗██╗         ███████╗ █████╗ ███╗   ██╗████████╗ █████╗ ███╗   ██╗ █████╗ 
