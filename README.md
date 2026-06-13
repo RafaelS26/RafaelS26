@@ -17,15 +17,8 @@
 ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝  ╚═╝╚══════╝╚══════╝    ╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝
 
 ```
-
-
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=SQL+%7C+Python+%7C+Power+BI;ETL+Pipelines+%7C+Dashboards;Transformando+dados+em+decis%C3%B5es)
-
 </div>
----
-<img width="3840" height="1411" alt="roronoa-zoro-action-3840x2160-18353 (1)" src="https://github.com/user-attachments/assets/59a0aa86-ff9a-4d42-9990-031adc8c22b5" />
----
-
 ## `> stack`
 
 <div align="center">
@@ -41,9 +34,7 @@
 ![Excel](https://img.shields.io/badge/Excel-0D1117?style=for-the-badge&logo=microsoftexcel&logoColor=00FF41)
 
 </div>
-
 ---
-
 ## `> projetos`
 
 <div align="center">
