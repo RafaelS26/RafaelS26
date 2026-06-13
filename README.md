@@ -23,7 +23,7 @@
 
 </div>
 ---
-<img width="5120" height="2880" alt="roronoa-zoro-5120x2880-19795 (2)" src="https://github.com/user-attachments/assets/64a02bc3-707d-43f1-b9dd-a0b83a657260" />
+<img width="3840" height="1411" alt="roronoa-zoro-action-3840x2160-18353 (1)" src="https://github.com/user-attachments/assets/59a0aa86-ff9a-4d42-9990-031adc8c22b5" />
 ---
 
 ## `> stack`
