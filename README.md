@@ -38,16 +38,9 @@
 <div align="center">
   
 <!-- CARD 2 -->
-<div align="center">
-  [![Champions League](https://vercel.app)](https://rafaels26.github.io/champions-league/)
+[![Champions League](https://github-readme-stats.vercel.app/api/pin/?username=RafaelS26&repo=liga-dos-campeôes&bg_color=0D1117&border_color=00FF41&title_color=00FF41&text_color=c9d1d9&icon_color=00FF41)](https://rafaels26.github.io/champions-league/)
 
-  ## `> stats`
-
-  ![Rafael's Stats](https://vercel.app)
-  ![Top Langs](https://vercel.app)
-  ![Streak](https://demolab.com)
 </div>
-
 
 ## `> stats`
 
