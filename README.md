@@ -19,7 +19,7 @@
 <br clear="center"/>
 
 
-
+## `> stack`
 
 <div align="center">
 
@@ -33,6 +33,7 @@
 ![Excel](https://img.shields.io/badge/Excel-0D1117?style=for-the-badge&logo=microsoftexcel&logoColor=00FF41)
 
 </div>
+
 ## `> projetos`
 
 <div align="center">
