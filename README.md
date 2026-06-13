@@ -27,22 +27,7 @@
 
 ---
 
-<img width="2928" height="1867" alt="one-piece-roronoa-3840x2160-12170 (1)" src="https://github.com/user-attachments/assets/5dc3010b-0571-4e7f-90f4-ab40736d74d7" />
-
-
-
-
-```python
-rafael = {
-    "nome":     "Rafael Santana",
-    "role":     "Data Analyst",
-    "local":    "Ipatinga, MG — BR",
-    "status":   "Open to work 🟢",
-    "foco":     ["SQL", "Python", "Power BI", "ETL"],
-    "contato":  "rafaael.sms@gmail.com"
-}
-```
-
+<img width="2746" height="1579" alt="one-piece-roronoa-3840x2160-12170 (4)" src="https://github.com/user-attachments/assets/12917c3b-c1b7-4a95-a0db-6e20dfc83b4d" />
 <br clear="right"/>
 
 ---
