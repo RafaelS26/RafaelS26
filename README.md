@@ -2,12 +2,8 @@
 </div>
 ---
 <div align="center">
-<!-- FOTO DE PERFIL DO ZORO - substitua pelo link da imagem que você escolher -->
-<!-- Dica: use uma imagem quadrada 200x200px -->
 <img src="https://i.imgur.com/SUA_IMAGEM_AQUI.png" width="140px" style="border-radius: 50%"/>
-
 <br/>
-
 ```
 ██████╗  █████╗ ███████╗ █████╗ ███████╗██╗         ███████╗ █████╗ ███╗   ██╗████████╗ █████╗ ███╗   ██╗ █████╗ 
 ██╔══██╗██╔══██╗██╔════╝██╔══██╗██╔════╝██║         ██╔════╝██╔══██╗████╗  ██║╚══██╔══╝██╔══██╗████╗  ██║██╔══██╗
@@ -19,7 +15,6 @@
 ```
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=SQL+%7C+Python+%7C+Power+BI;ETL+Pipelines+%7C+Dashboards;Transformando+dados+em+decis%C3%B5es)
 </div>
-## `> stack`
 
 <div align="center">
 
@@ -28,7 +23,6 @@
 ![Power BI](https://img.shields.io/badge/Power_BI-0D1117?style=for-the-badge&logo=microsoftpowerbi&logoColor=00FF41)
 ![Pandas](https://img.shields.io/badge/Pandas-0D1117?style=for-the-badge&logo=pandas&logoColor=00FF41)
 ![NumPy](https://img.shields.io/badge/NumPy-0D1117?style=for-the-badge&logo=numpy&logoColor=00FF41)
-![BigQuery](https://img.shields.io/badge/BigQuery-0D1117?style=for-the-badge&logo=googlecloud&logoColor=00FF41)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-0D1117?style=for-the-badge&logo=microsoftsqlserver&logoColor=00FF41)
 ![Looker](https://img.shields.io/badge/Looker_Studio-0D1117?style=for-the-badge&logo=looker&logoColor=00FF41)
 ![Excel](https://img.shields.io/badge/Excel-0D1117?style=for-the-badge&logo=microsoftexcel&logoColor=00FF41)
