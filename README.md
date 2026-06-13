@@ -17,15 +17,14 @@ div align="center">
 <br/>
 
 ```
-  ██████╗  █████╗ ███████╗ █████╗ ███████╗██╗
-  ██╔══██╗██╔══██╗██╔════╝██╔══██╗██╔════╝██║
-  ██████╔╝███████║█████╗  ███████║█████╗  ██║
-  ██╔══██╗██╔══██║██╔══╝  ██╔══██║██╔══╝  ██║
-  ██║  ██║██║  ██║██║     ██║  ██║███████╗███████╗
-  ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝  ╚═╝╚══════╝╚══════╝
+            ██████╗  █████╗ ███████╗ █████╗ ███████╗██╗
+            ██╔══██╗██╔══██╗██╔════╝██╔══██╗██╔════╝██║
+            ██████╔╝███████║█████╗  ███████║█████╗  ██║
+            ██╔══██╗██╔══██║██╔══╝  ██╔══██║██╔══╝  ██║
+            ██║  ██║██║  ██║██║     ██║  ██║███████╗███████╗
+            ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝  ╚═╝╚══════╝╚══════╝
 ```
 
-### `[ Data Analyst ]`
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=SQL+%7C+Python+%7C+Power+BI;ETL+Pipelines+%7C+Dashboards;Transformando+dados+em+decis%C3%B5es)
 
@@ -33,7 +32,7 @@ div align="center">
 
 ---
 
-<img align="right" src="https://i.imgur.com/SUA_IMAGEM_ZORO.png" width="220px"/>
+<img align="right" src="https://imgur.com/BU3ciRY" width="220px"/>
 
 ## `> whoami`
 
@@ -64,7 +63,6 @@ rafael = {
 ![BigQuery](https://img.shields.io/badge/BigQuery-0D1117?style=for-the-badge&logo=googlecloud&logoColor=00FF41)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-0D1117?style=for-the-badge&logo=microsoftsqlserver&logoColor=00FF41)
 ![Looker](https://img.shields.io/badge/Looker_Studio-0D1117?style=for-the-badge&logo=looker&logoColor=00FF41)
-![n8n](https://img.shields.io/badge/n8n-0D1117?style=for-the-badge&logo=n8n&logoColor=00FF41)
 ![Excel](https://img.shields.io/badge/Excel-0D1117?style=for-the-badge&logo=microsoftexcel&logoColor=00FF41)
 
 </div>
@@ -74,9 +72,6 @@ rafael = {
 ## `> projetos`
 
 <div align="center">
-
-<!-- CARD 1 -->
-[![HospitalDB](https://github-readme-stats.vercel.app/api/pin/?username=RafaelS26&repo=HospitalDB&bg_color=0D1117&border_color=00FF41&title_color=00FF41&text_color=c9d1d9&icon_color=00FF41)](https://github.com/RafaelS26/HospitalDB)
 
 <!-- CARD 2 -->
 [![Champions League](https://github-readme-stats.vercel.app/api/pin/?username=RafaelS26&repo=champions-league-top-scorers&bg_color=0D1117&border_color=00FF41&title_color=00FF41&text_color=c9d1d9&icon_color=00FF41)](https://github.com/RafaelS26/champions-league-top-scorers)
