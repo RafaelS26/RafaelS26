@@ -1,6 +1,7 @@
 
 
-<img width="2928" height="1867" alt="one-piece-roronoa-3840x2160-12170 (3)" src="https://github.com/user-attachments/assets/df143c0a-ae45-426e-bd91-4696a98d6e56" />
+<img width="2928" height="1867" alt="one-piece-roronoa-3840x2160-12170 (1)" src="https://github.com/user-attachments/assets/2a7ef860-5375-4139-a455-346a8216c36e" />
+
 
 
 
