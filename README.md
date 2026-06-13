@@ -26,7 +26,8 @@
 
 ---
 
-<img width="5120" height="2880" alt="roronoa-zoro-5120x2880-19795" src="https://github.com/user-attachments/assets/b446e4b5-db20-4caa-9ea5-11bd3e3035fb" />
+<img width="3840" height="2160" alt="one-piece-roronoa-3840x2160-12170" src="https://github.com/user-attachments/assets/b1aabf29-2802-43ed-b68f-7909134720c6" />
+
 
 
 ```python
