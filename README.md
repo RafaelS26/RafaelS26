@@ -1,6 +1,7 @@
 
 
-<img width="5120" height="2048" alt="roronoa-zoro-5120x2880-19795 (1)" src="https://github.com/user-attachments/assets/7024fa30-cd7d-4b15-84b8-3e4d5a8fa8af" />
+<img width="3469" height="1440" alt="roronoa-zoro-5120x2880-19795 (1) (1)" src="https://github.com/user-attachments/assets/07c5f607-135d-4af1-9a88-cbc0e0c96a07" />
+
 
 </div>
 ---
@@ -24,12 +25,8 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=SQL+%7C+Python+%7C+Power+BI;ETL+Pipelines+%7C+Dashboards;Transformando+dados+em+decis%C3%B5es)
 
 </div>
-
 ---
-
-<img width="2746" height="1579" alt="one-piece-roronoa-3840x2160-12170 (4)" src="https://github.com/user-attachments/assets/12917c3b-c1b7-4a95-a0db-6e20dfc83b4d" />
-<br clear="right"/>
-
+<img width="1473" height="1009" alt="one-piece-roronoa-3840x2160-12170 (4) (1)" src="https://github.com/user-attachments/assets/dc1f6a6b-bb87-4188-a0ab-9f3d5f3a531a" />
 ---
 
 ## `> stack`
