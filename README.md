@@ -20,7 +20,7 @@
 
 <br clear="right"/>
 
----
+
 
 ## `> stack`
 
@@ -31,10 +31,8 @@
 ![Power BI](https://img.shields.io/badge/Power_BI-0D1117?style=for-the-badge&logo=microsoftpowerbi&logoColor=00FF41)
 ![Pandas](https://img.shields.io/badge/Pandas-0D1117?style=for-the-badge&logo=pandas&logoColor=00FF41)
 ![NumPy](https://img.shields.io/badge/NumPy-0D1117?style=for-the-badge&logo=numpy&logoColor=00FF41)
-![BigQuery](https://img.shields.io/badge/BigQuery-0D1117?style=for-the-badge&logo=googlecloud&logoColor=00FF41)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-0D1117?style=for-the-badge&logo=microsoftsqlserver&logoColor=00FF41)
 ![Looker](https://img.shields.io/badge/Looker_Studio-0D1117?style=for-the-badge&logo=looker&logoColor=00FF41)
-![n8n](https://img.shields.io/badge/n8n-0D1117?style=for-the-badge&logo=n8n&logoColor=00FF41)
 ![Excel](https://img.shields.io/badge/Excel-0D1117?style=for-the-badge&logo=microsoftexcel&logoColor=00FF41)
 
 </div>
