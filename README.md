@@ -1,15 +1,9 @@
 
-<!-- BANNER - substitua pelo banner do Zoro que você escolher -->
-<!-- Recomendo um banner 1500x500px. Suba no imgur.com e cole o link abaixo -->
-![banner]<img width="5120" height="2880" alt="roronoa-zoro-5120x2880-19795" src="https://github.com/user-attachments/assets/75d863a4-a889-4859-b712-a94f85efac1a" />
 
-
+<img width="5120" height="2880" alt="roronoa-zoro-5120x2880-19795" src="https://github.com/user-attachments/assets/75d863a4-a889-4859-b712-a94f85efac1a" />
 </div>
-
 ---
-
 <div align="center">
-
 <!-- FOTO DE PERFIL DO ZORO - substitua pelo link da imagem que você escolher -->
 <!-- Dica: use uma imagem quadrada 200x200px -->
 <img src="https://i.imgur.com/SUA_IMAGEM_AQUI.png" width="140px" style="border-radius: 50%"/>
@@ -32,9 +26,8 @@
 
 ---
 
-<img align="right" src="https://imgur.com/BU3ciRY" width="220px"/>
+<img width="5120" height="2880" alt="roronoa-zoro-5120x2880-19795" src="https://github.com/user-attachments/assets/b446e4b5-db20-4caa-9ea5-11bd3e3035fb" />
 
-## `> whoami`
 
 ```python
 rafael = {
