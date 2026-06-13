@@ -1,6 +1,7 @@
 
 
-<img width="5120" height="2880" alt="roronoa-zoro-5120x2880-19795" src="https://github.com/user-attachments/assets/75d863a4-a889-4859-b712-a94f85efac1a" />
+<img width="5120" height="2048" alt="roronoa-zoro-5120x2880-19795 (1)" src="https://github.com/user-attachments/assets/7024fa30-cd7d-4b15-84b8-3e4d5a8fa8af" />
+
 </div>
 ---
 <div align="center">
@@ -26,7 +27,8 @@
 
 ---
 
-<img width="3840" height="2160" alt="one-piece-roronoa-3840x2160-12170" src="https://github.com/user-attachments/assets/b1aabf29-2802-43ed-b68f-7909134720c6" />
+<img width="2928" height="1867" alt="one-piece-roronoa-3840x2160-12170 (1)" src="https://github.com/user-attachments/assets/5dc3010b-0571-4e7f-90f4-ab40736d74d7" />
+
 
 
 
