@@ -10,6 +10,8 @@
 ```
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=SEJA+BEMVINDOS)
    </div>
+   <br clear="right"/>
+   
    ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=Analista+De+Dados;SQL+%7C+Python+%7C+Power+BI;ETL+Pipelines+%7C+Dashboards;Transformando+dados+em+decis%C3%B5es)
    </div>
 
