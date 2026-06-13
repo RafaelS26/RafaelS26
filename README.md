@@ -38,7 +38,7 @@
 <div align="center">
   
 <!-- CARD 2 -->
-[![Champions League](https://github-readme-stats.vercel.app/api/pin/?username=RafaelS26&repo=champions-league-top-scorers&bg_color=0D1117&border_color=00FF41&title_color=00FF41&text_color=c9d1d9&icon_color=00FF41)](https://rafaels26.github.io/champions-league/)
+[![Champions League](https://github-readme-stats.vercel.app/api/pin/?username=RafaelS26&repo=liga-dos-campeões&bg_color=0D1117&border_color=00FF41&title_color=00FF41&text_color=c9d1d9&icon_color=00FF41)](https://rafaels26.github.io/champions-league/)
 
 ## `> stats`
 
