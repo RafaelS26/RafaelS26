@@ -2,7 +2,7 @@ div align="center">
 
 <!-- BANNER - substitua pelo banner do Zoro que você escolher -->
 <!-- Recomendo um banner 1500x500px. Suba no imgur.com e cole o link abaixo -->
-![banner](https://i.imgur.com/SEU_BANNER_AQUI.png)
+![banner](https://imgur.com/Cm2UKzq)
 
 </div>
 
