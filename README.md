@@ -20,7 +20,6 @@
 
 
 
-## `> stack`
 
 <div align="center">
 
