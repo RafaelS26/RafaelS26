@@ -38,19 +38,16 @@
 <div align="center">
   
 <!-- CARD 2 -->
-[![Champions League](https://github-readme-stats.vercel.app/api/pin/?username=RafaelS26&repo=champions-league-top-scorers&bg_color=0D1117&border_color=00FF41&title_color=00FF41&text_color=c9d1d9&icon_color=00FF41)](https://rafaels26.github.io/champions-league/)
-
-## `> stats`
-
 <div align="center">
+  [![Champions League](https://github-readme-stats.vercel.app/api/pin/?username=RafaelS26&repo=champions-league-top-scorers&bg_color=0D1117&border_color=00FF41&title_color=00FF41&text_color=c9d1d9&icon_color=00FF41)](https://rafaels26.github.io/champions-league/)
 
-![Rafael's Stats](https://github-readme-stats.vercel.app/api?username=RafaelS26&show_icons=true&theme=chartreuse-dark&bg_color=0D1117&border_color=00FF41&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9&hide_border=false)
+  ## `> stats`
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelS26&layout=compact&theme=chartreuse-dark&bg_color=0D1117&border_color=00FF41&title_color=00FF41&text_color=c9d1d9)
-
-![Streak](https://streak-stats.demolab.com?user=RafaelS26&theme=dark&background=0D1117&border=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&dates=c9d1d9)
-
+  ![Rafael's Stats](https://github-readme-stats.vercel.app/api?username=RafaelS26&show_icons=true&theme=chartreuse-dark&bg_color=0D1117&border_color=00FF41&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9&hide_border=false)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelS26&layout=compact&theme=chartreuse-dark&bg_color=0D1117&border_color=00FF41&title_color=00FF41&text_color=c9d1d9)
+  ![Streak](https://streak-stats.demolab.com?user=RafaelS26&theme=dark&background=0D1117&border=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&dates=c9d1d9)
 </div>
+
 
 ---
 
