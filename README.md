@@ -8,16 +8,15 @@
         ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝  ╚═╝╚══════╝╚══════╝    ╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝
 
 ```
-  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=SEJA+BEM+VINDOS;SEMPRE+EM+DESENVOLVIMENTO)    <img width="5120" height="2022" alt="roronoa-zoro-5120x2880-19795 (2) (1)" src="https://github.com/user-attachments/assets/c5b8eb1f-8f15-449e-a852-d363ec5d73a0" />
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=SEJA+BEM+VINDOS;SEMPRE+EM+DESENVOLVIMENTO" />
+</div>
 
-   </div>
-<br clear="center"/>
+<img width="5120" height="2880" alt="roronoa-zoro-5120x2880-19795 (2)" src="https://github.com/user-attachments/assets/986e7c0a-a08c-465d-87d3-11ff265a9ffc" />
 
    ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=Analista+De+Dados;SQL+%7C+Python+%7C+Power+BI;ETL+Pipelines+%7C+Dashboards;Transformando+dados+em+decis%C3%B5es)
    </div>
-
 <br clear="center"/>
-
 
 ## `> stack`
 
