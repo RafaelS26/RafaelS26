@@ -32,6 +32,22 @@
 </div>
 
 ---
+## 🛠️ > stack
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=4DABCF)
+![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+
+</div>
+
+---
+
 ## `> stack`
 
 <div align="center">
@@ -62,21 +78,6 @@
 ![Rafael's Stats](https://github-readme-stats.vercel.app/api?username=RafaelS26&show_icons=true&theme=chartreuse-dark&bg_color=0D1117&border_color=00FF41&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9&hide_border=false)
 
 </div>
-
-## `> contato`
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-santana-dados)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RafaelS26)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafaael.sms@gmail.com)
-
-<br/>
-
-![visitors](https://komarev.com/ghpvc/?username=RafaelS26&color=00FF41&style=flat-square&label=profile+views)
-
-</div>
-
 
 
 <div align="center">
