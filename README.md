@@ -47,7 +47,7 @@
 
 ## `> projetos`
 
-<div align="left">
+<div align="center">
 
 <!-- CARD 1 -->
 [![Champions League](https://github-readme-stats.vercel.app/api/pin/?username=RafaelS26&repo=champions-league&bg_color=0D1117&border_color=00FF41&title_color=00FF41&text_color=c9d1d9&icon_color=00FF41)](https://github.com/RafaelS26/champions-league)
