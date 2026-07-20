@@ -17,7 +17,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=Analista+De+Dados;SQL+%7C+Python+%7C+Power+BI;ETL+Pipelines+%7C+Dashboards;Transformando+dados+em+decis%C3%B5es" />
 </div>
 
-
 ## `> stack`
 
 <div align="center">
@@ -29,15 +28,17 @@
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=4DABCF)
 ![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+
 </div>
 
 ## `> projetos`
 
 <div align="center">
-  
+
 <!-- CARD 2 -->
 [![Champions League](https://github-readme-stats.vercel.app/api/pin/?username=RafaelS26&repo=champions-league&bg_color=0D1117&border_color=00FF41&title_color=00FF41&text_color=c9d1d9&icon_color=00FF41)](https://github.com/RafaelS26/champions-league)
 [![Projeto Hospitalar](https://github-readme-stats.vercel.app/api/pin/?username=RafaelS26&repo=projeto-hospitalar&bg_color=0D1117&border_color=00FF41&title_color=00FF41&text_color=c9d1d9&icon_color=00FF41)](https://github.com/RafaelS26/projeto-hospitalar)
+
 </div>
 
 ## `> stats`
