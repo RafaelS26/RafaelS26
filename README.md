@@ -31,23 +31,9 @@
 
 </div>
 
-## `> stack`
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=4DABCF)
-![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-
-</div>
-
 ## `> projetos`
 
-<div align="center">
+<div align="left">
 
 <!-- CARD 1 -->
 [![Champions League](https://github-readme-stats.vercel.app/api/pin/?username=RafaelS26&repo=champions-league&bg_color=0D1117&border_color=00FF41&title_color=00FF41&text_color=c9d1d9&icon_color=00FF41)](https://github.com/RafaelS26/champions-league)
