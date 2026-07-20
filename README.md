@@ -66,12 +66,19 @@
 
 <div align="center">
 
+<!-- CARD 2 -->
 [![Champions League](https://github-readme-stats.vercel.app/api/pin/?username=RafaelS26&repo=champions-league&bg_color=0D1117&border_color=00FF41&title_color=00FF41&text_color=c9d1d9&icon_color=00FF41)](https://github.com/RafaelS26/champions-league)
 [![Projeto Hospitalar](https://github-readme-stats.vercel.app/api/pin/?username=RafaelS26&repo=projeto-hospitalar&bg_color=0D1117&border_color=00FF41&title_color=00FF41&text_color=c9d1d9&icon_color=00FF41)](https://github.com/RafaelS26/projeto-hospitalar)
 
 </div>
 
 ## `> stats`
+
+<div align="center">
+
+![Rafael's Stats](https://github-readme-stats.vercel.app/api?username=RafaelS26&show_icons=true&theme=chartreuse-dark&bg_color=0D1117&border_color=00FF41&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9&hide_border=false)
+
+</div>
 
 <div align="center">
 
