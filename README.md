@@ -31,11 +31,7 @@
 
 </div>
 
-## `> projetos`
-
-<div align="center"> <table> <tr> <td align="center"> <a href="https://github.com/RafaelS26/champions-league"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=RafaelS26&repo=champions-league&bg_color=0D1117&border_color=00FF41&title_color=00FF41&text_color=c9d1d9&icon_color=00FF41" alt="Champions League" /> </a> </td> <td align="center"> <a href="https://github.com/RafaelS26/projeto-hospitalar"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=RafaelS26&repo=projeto-hospitalar&bg_color=0D1117&border_color=00FF41&title_color=00FF41&text_color=c9d1d9&icon_color=00FF41" alt="Projeto Hospitalar" /> </a> </td> </tr> </table> </div>
-</div>
-
+<div align="center"> <table> <tr> <td align="center" width="380"> <h3>🏆 Liga dos Campeões</h3> <p><sub>Dashboard com dados da Champions League via API-Sports, publicado no GitHub Pages.</sub></p> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/API--Sports-00FF41?style=flat-square&logoColor=black" /> <br /><br /> <a href="https://github.com/RafaelS26/champions-league"> <img src="https://img.shields.io/badge/ACESSAR_PROJETO-0D1117?style=for-the-badge&logo=github&logoColor=00FF41&labelColor=0D1117" /> </a> </td> <td align="center" width="380"> <h3>🏥 Projeto Hospitalar</h3> <p><sub>Pipeline ETL Python → SQL Server → Power BI, com 318k+ registros e dashboard em DAX.</sub></p> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" /> <br /><br /> <a href="https://github.com/RafaelS26/projeto-hospitalar"> <img src="https://img.shields.io/badge/ACESSAR_PROJETO-0D1117?style=for-the-badge&logo=github&logoColor=00FF41&labelColor=0D1117" /> </a> </td> </tr> </table> </div>
 
 ## `> contribuições`
 
