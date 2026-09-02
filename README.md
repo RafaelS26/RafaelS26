@@ -30,7 +30,6 @@ Aprendo fazendo — cada projeto aqui no meu GitHub nasceu de um problema real q
 
 `🎯` Objetivo: vaga júnior em Análise de Dados / BI
 `🛠️` Stack: SQL · Python · Power BI · ETL
-`📍` Ipatinga, MG
 `🐙` 100% autodidata — aprendizado via projetos reais
 
 </td>
