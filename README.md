@@ -17,8 +17,8 @@
      ============================================================ -->
 <table>
 <tr>
-<td width="630" valign="top">
-  <img src="https://raw.githubusercontent.com/RafaelS26/RafaelS26/main/avi-ascii.svg?v=2" alt="Retrato ASCII" width="630" />
+<td width="350" valign="top">
+  <img src="https://raw.githubusercontent.com/RafaelS26/RafaelS26/main/avi-ascii.svg?v=2" alt="Retrato ASCII" width="350" />
 </td>
 <td valign="top">
 
