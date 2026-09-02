@@ -12,12 +12,32 @@
 </div>
 
 <!-- ============================================================
-     NOVO: retrato ASCII animado (o script que a gente fez)
+     NOVO: retrato ASCII animado + sobre mim lado a lado
      Troque a largura em width= se quiser maior ou menor
      ============================================================ -->
-<div align="left">
+<table>
+<tr>
+<td width="320" valign="top">
   <img src="https://raw.githubusercontent.com/RafaelS26/RafaelS26/main/avi-ascii.svg" alt="ASCII portrait" width="300" />
-</div>
+</td>
+<td valign="top">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF41&center=false&vCenter=true&width=400&height=40&lines=%3E+sobre+mim" />
+
+Ex-pintor industrial guinando pra Análise de Dados. Depois de anos girando entre indústria, telemarketing e comércio, decidi virar o jogo: concluí a **Formação Analista de Dados da EBAC** (Python, SQL, Power BI, ETL, PySpark, EDA) e sigo agora no **Tecnólogo em Ciência de Dados pela Uninter**.
+
+Aprendo fazendo — cada projeto aqui no meu GitHub nasceu de um problema real que eu quis resolver, não de um tutorial copiado. Hoje estou em busca ativa de uma vaga júnior em Dados/BI, pronto pra transformar a mesma disciplina que usei na indústria em decisões guiadas por dados.
+
+`🎯` Objetivo: vaga júnior em Análise de Dados / BI
+`🛠️` Stack: SQL · Python · Power BI · ETL
+`📍` Ipatinga, MG
+`🐙` 100% autodidata — aprendizado via projetos reais
+
+</td>
+</tr>
+</table>
+
+<img width="5120" height="2022" alt="roronoa-zoro-5120x2880-19795 (2) (1)" src="https://github.com/user-attachments/assets/98238588-db4e-4421-97ce-f6f731bab18c" />
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=Analista+De+Dados;SQL+%7C+Python+%7C+Power+BI;ETL+Pipelines+%7C+Dashboards;Transformando+dados+em+decis%C3%B5es" />
