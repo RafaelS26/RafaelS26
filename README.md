@@ -15,7 +15,7 @@
      NOVO: retrato ASCII animado (o script que a gente fez)
      Troque a largura em width= se quiser maior ou menor
      ============================================================ -->
-<div align="right">
+<div align="left">
   <img src="https://raw.githubusercontent.com/RafaelS26/RafaelS26/main/avi-ascii.svg" alt="ASCII portrait" width="300" />
 </div>
 
