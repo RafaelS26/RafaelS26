@@ -23,13 +23,9 @@
 <td valign="top">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF41&center=false&vCenter=true&width=400&height=40&lines=%3E+sobre+mim" alt="Sobre mim" />
-
 Ex-pintor industrial que migrou para a Análise de Dados aplicando a mesma disciplina e atenção aos detalhes da indústria na resolução de problemas de negócio.
-
 Minha transição é sustentada por projetos práticos de ponta a ponta — da extração e modelagem à criação de dashboards estratégicos. Atualmente, curso **Tecnólogo em Ciência de Dados na Uninter** e concluí a Formação em **Análise de Dados pela EBAC** (Python, SQL, Power BI, ETL, EDA).
-
 Cada projeto do meu portfólio foi construído do zero a partir de cenários reais, priorizando dados limpos, consultas otimizadas e visualizações que direcionam decisões. Estou em busca de desafios como Analista de Dados / BI, pronto para gerar impacto desde o primeiro dia.
-
 <br />
 
 `🎯` **Objetivo:** vaga júnior em Análise de Dados / BI  
