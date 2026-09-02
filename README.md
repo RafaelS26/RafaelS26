@@ -15,12 +15,6 @@
      NOVO: retrato ASCII animado + sobre mim lado a lado
      Troque a largura em width= se quiser maior ou menor
      ============================================================ -->
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF41&center=false&vCenter=true&width=400&height=40&lines=%3E+sobre+mim" />
-</td>
-</tr>
-</table>
-
 <table>
 <tr>
 <td width="330" valign="top">
