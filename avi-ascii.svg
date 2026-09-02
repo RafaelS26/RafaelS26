@@ -1,42 +1,61 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 356 324" font-family="monospace" font-size="8">
-<style>.linha { fill: #e0dada; opacity: 0; white-space: pre; }</style>
-<rect width="100%" height="100%" fill="#212122" />
-<text x="10" y="15.0" class="linha">=====*##########%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%<animate attributeName="opacity" from="0" to="1" begin="0.00s" dur="0.15s" fill="freeze" /></text>
-<text x="10" y="23.0" class="linha">=====*###########%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%@@@<animate attributeName="opacity" from="0" to="1" begin="0.05s" dur="0.15s" fill="freeze" /></text>
-<text x="10" y="31.0" class="linha">=====*###########%%%%%%%%%%%%%%%%#*#####%%%%%%%%%%%%%%%%%%%%%%%%@@@@@@<animate attributeName="opacity" from="0" to="1" begin="0.10s" dur="0.15s" fill="freeze" /></text>
-<text x="10" y="39.0" class="linha">=====*###########%%%%%%%%%%%##=-:..:::===+#%%%%%%%%%%%%%%%%%%%%%@@@@@@<animate attributeName="opacity" from="0" to="1" begin="0.15s" dur="0.15s" fill="freeze" /></text>
-<text x="10" y="47.0" class="linha">=====*###########%%%%%%%%%#+-:          ..-*#%%%%%%%%%%%%%%%%%%%@@@@@@<animate attributeName="opacity" from="0" to="1" begin="0.20s" dur="0.15s" fill="freeze" /></text>
-<text x="10" y="55.0" class="linha">=====*###########%%%%%%%%*+.               .:#%%%%%%%%%%%%%%%%%%@@@@@@<animate attributeName="opacity" from="0" to="1" begin="0.25s" dur="0.15s" fill="freeze" /></text>
-<text x="10" y="63.0" class="linha">=====*###########%%%%%%%=                   .-*%%%%%%%%%%%%%%%%@@@@@@@<animate attributeName="opacity" from="0" to="1" begin="0.30s" dur="0.15s" fill="freeze" /></text>
-<text x="10" y="71.0" class="linha">=====*##########%%%%%%*-       ..:.:..  .     :#%%%%%%%%%%%%%%@@@@@@@@<animate attributeName="opacity" from="0" to="1" begin="0.35s" dur="0.15s" fill="freeze" /></text>
-<text x="10" y="79.0" class="linha">=====*##########%%%%%%=     .:---========:     -%%%%%%%%%%%%%@@@@@@@@@<animate attributeName="opacity" from="0" to="1" begin="0.40s" dur="0.15s" fill="freeze" /></text>
-<text x="10" y="87.0" class="linha">=====*##########%%%%%=    .:-=====++++++++-.   .+%%%%%%%%%%%%@@@@@@@@@<animate attributeName="opacity" from="0" to="1" begin="0.45s" dur="0.15s" fill="freeze" /></text>
-<text x="10" y="95.0" class="linha">=====*##########%%%%*:   .::----=++++++++**+-   :#%%%%%%%%%%@@@@@@@@@@<animate attributeName="opacity" from="0" to="1" begin="0.50s" dur="0.15s" fill="freeze" /></text>
-<text x="10" y="103.0" class="linha">=====+#########%%%%%%-   ::::::--=++*+=----=+- .-#%%%%%%%%%%%%@@@@@@@@<animate attributeName="opacity" from="0" to="1" begin="0.55s" dur="0.15s" fill="freeze" /></text>
-<text x="10" y="111.0" class="linha">=====+##########%%%%%+  :-----:--==+*+=-==++++.:#%%%%%%%%%%%%@@@@@@@@@<animate attributeName="opacity" from="0" to="1" begin="0.60s" dur="0.15s" fill="freeze" /></text>
-<text x="10" y="119.0" class="linha">=====+##########%%%%%%=.--......:-=++=:.:-=+**-*%%%%%%%%%%%%%@@@@@@@@@<animate attributeName="opacity" from="0" to="1" begin="0.65s" dur="0.15s" fill="freeze" /></text>
-<text x="10" y="127.0" class="linha">=====+##########%%%%%%+----------=+**++=---=+**%%%%%%%%%%%%%%@@@@@@@@@<animate attributeName="opacity" from="0" to="1" begin="0.70s" dur="0.15s" fill="freeze" /></text>
-<text x="10" y="135.0" class="linha">=====+*#########%%%%%+--==========+****++++****%%%%%%%%%%%%%%@@@@@@@@@<animate attributeName="opacity" from="0" to="1" begin="0.75s" dur="0.15s" fill="freeze" /></text>
-<text x="10" y="143.0" class="linha">=====+###########%%%%+--========:-++-++++*****+#%%%%%%%%%%@@%@@@@@@@@@<animate attributeName="opacity" from="0" to="1" begin="0.80s" dur="0.15s" fill="freeze" /></text>
-<text x="10" y="151.0" class="linha">=====+###########%%%%*--======---=+++=+++*****+%%%%%%%%%%%%%%@@@@@@@@@<animate attributeName="opacity" from="0" to="1" begin="0.85s" dur="0.15s" fill="freeze" /></text>
-<text x="10" y="159.0" class="linha">======###########%%%%#+=-==------====++++******%%%%%%%%%%%@%%@@@@@@@@@<animate attributeName="opacity" from="0" to="1" begin="0.90s" dur="0.15s" fill="freeze" /></text>
-<text x="10" y="167.0" class="linha">=====+###########%%%%%%*-==--::----=====++***#%%%%%%%%%%%%%@%@@@@@@@@@<animate attributeName="opacity" from="0" to="1" begin="0.95s" dur="0.15s" fill="freeze" /></text>
-<text x="10" y="175.0" class="linha">======*##########%%%%%%%=---==-======++++***#%%%%%%%%%%%%%%%%%@@@@@@@@<animate attributeName="opacity" from="0" to="1" begin="1.00s" dur="0.15s" fill="freeze" /></text>
-<text x="10" y="183.0" class="linha">======*###########%%%%%%#=--========++*****#%%%%%%%%%%%%%%%%%%%@@@@@@@<animate attributeName="opacity" from="0" to="1" begin="1.05s" dur="0.15s" fill="freeze" /></text>
-<text x="10" y="191.0" class="linha">======*############%%%%%%=---===+++++***++*%%%%%%%%%%%%%%%@%%%%@@@@@@@<animate attributeName="opacity" from="0" to="1" begin="1.10s" dur="0.15s" fill="freeze" /></text>
-<text x="10" y="199.0" class="linha">======*##############%%%#=----==++++++++++*%%%%%%%%%%%%%%%%%%%%@@@@@@@<animate attributeName="opacity" from="0" to="1" begin="1.15s" dur="0.15s" fill="freeze" /></text>
-<text x="10" y="207.0" class="linha">======*###############%=.--------====++++*++%%%%%%%%%%%%%%%%%%@@@@@@@@<animate attributeName="opacity" from="0" to="1" begin="1.20s" dur="0.15s" fill="freeze" /></text>
-<text x="10" y="215.0" class="linha">======**#############%+  -=--=====++++++**+.*%%%%%%%%%%%%%%%%%%@@@@@@@<animate attributeName="opacity" from="0" to="1" begin="1.25s" dur="0.15s" fill="freeze" /></text>
-<text x="10" y="223.0" class="linha">======*##############+. .-======++++*****+: .-*%%%%%%%%%%%%%%%%%@@@@@@<animate attributeName="opacity" from="0" to="1" begin="1.30s" dur="0.15s" fill="freeze" /></text>
-<text x="10" y="231.0" class="linha">======*###########+=.    :======+++***++=:     -*%%%%%%%%%%%%%%%%@@@@@<animate attributeName="opacity" from="0" to="1" begin="1.35s" dur="0.15s" fill="freeze" /></text>
-<text x="10" y="239.0" class="linha">======***####*+=:.       .-=====++++++=-.        .-*#%@%%%%%%%%%%%%%@@<animate attributeName="opacity" from="0" to="1" begin="1.40s" dur="0.15s" fill="freeze" /></text>
-<text x="10" y="247.0" class="linha">======*##*+=:.            .--===+++==-.             .-*#%@@@%%%%%%%%%%<animate attributeName="opacity" from="0" to="1" begin="1.45s" dur="0.15s" fill="freeze" /></text>
-<text x="10" y="255.0" class="linha">=====-+=:                  .--====-:.                   -+*%%@@%%%%%%%<animate attributeName="opacity" from="0" to="1" begin="1.50s" dur="0.15s" fill="freeze" /></text>
-<text x="10" y="263.0" class="linha">===-.                       .----:.                        .:+#%%%@%%%<animate attributeName="opacity" from="0" to="1" begin="1.55s" dur="0.15s" fill="freeze" /></text>
-<text x="10" y="271.0" class="linha">==-                           ..                               .:-+%%%<animate attributeName="opacity" from="0" to="1" begin="1.60s" dur="0.15s" fill="freeze" /></text>
-<text x="10" y="279.0" class="linha">=-                                                                .=##<animate attributeName="opacity" from="0" to="1" begin="1.65s" dur="0.15s" fill="freeze" /></text>
-<text x="10" y="287.0" class="linha">-                                                                   :=<animate attributeName="opacity" from="0" to="1" begin="1.70s" dur="0.15s" fill="freeze" /></text>
-<text x="10" y="295.0" class="linha">.                                                                     <animate attributeName="opacity" from="0" to="1" begin="1.75s" dur="0.15s" fill="freeze" /></text>
-<text x="10" y="303.0" class="linha">                                                                      <animate attributeName="opacity" from="0" to="1" begin="1.80s" dur="0.15s" fill="freeze" /></text>
-<text x="10" y="311.0" class="linha">                                                                      <animate attributeName="opacity" from="0" to="1" begin="1.85s" dur="0.15s" fill="freeze" /></text>
-</svg>
+"""
+foto_para_ascii_svg.py
+
+Converte uma foto em um retrato ASCII monocromatico, animado em LOOP
+continuo (digita linha por linha, fica visivel, apaga e reinicia),
+em formato SVG -- pronto pra usar no README do perfil do GitHub.
+"""
+
+from PIL import Image
+
+# ============================================================
+# >>> COLOQUE AQUI O CAMINHO/NOME DA SUA FOTO LOCAL <<<
+CAMINHO_DA_FOTO = r"C:\Users\Rafael\OneDrive\Documentos\GithbubPerfil\WhatsApp Image 2026-03-18 at 11.38.30.jpeg"
+# ============================================================
+
+ARQUIVO_SAIDA = "avi-ascii.svg"
+LARGURA_CARACTERES = 70          # Quantos caracteres de largura tera o retrato
+RAMPA = " .:-=+*#%@"             # Do mais claro pro mais escuro
+FONTE_TAMANHO = 8                # Tamanho da fonte no SVG (px)
+ESPACAMENTO_LINHA = FONTE_TAMANHO * 1.1
+COR_TEXTO = "#e0dada"            # Cor do texto (estilo terminal)
+COR_FUNDO = "#212122"            # Fundo escuro estilo GitHub dark mode
+
+# --- CONTROLES DO LOOP ANIMADO ---
+ATRASO_ENTRE_LINHAS = 0.08       # Velocidade de "digitação" (segundos por linha)
+TEMPO_VISIVEL = 8.0                # Segundos que a imagem inteira fica parada na tela
+TEMPO_FADE_SAIDA = 0.6             # Segundos para apagar tudo no final do ciclo
+PAUSA_ANTES_REINICIAR = 0.5        # Segundos de tela escura antes de começar de novo
+
+
+def imagem_para_ascii(caminho, largura_chars):
+    img = Image.open(caminho).convert("L")
+    razao_altura = img.height / img.width
+    # 0.55 compensa a proporcao vertical dos caracteres monospace
+    altura_chars = max(1, int(largura_chars * razao_altura * 0.55))
+    img = img.resize((largura_chars, altura_chars))
+
+    linhas = []
+    pixels = img.load()
+    for y in range(altura_chars):
+        linha = ""
+        for x in range(largura_chars):
+            brilho = pixels[x, y]
+            indice = int((brilho / 255) * (len(RAMPA) - 1))
+            linha += RAMPA[indice]
+        linhas.append(linha)
+    return linhas
+
+
+def gerar_svg(linhas):
+    largura_svg = LARGURA_CARACTERES * (FONTE_TAMANHO * 0.6) + 20
+    altura_svg = len(linhas) * ESPACAMENTO_LINHA + 20
+
+    # Tempo total que leva para digitar todas as linhas
+    tempo_digitando = len(linhas) * ATRASO_ENTRE_LINHAS
+    # Duração total de 1 ciclo completo da animação
+    duracao_ciclo = tempo_digitando + TEMPO_VISIVEL + TEMPO_FADE_SAIDA + PAUSA_ANTES_REINICIAR
+
+    # Pontos de controle em % do ciclo total (0% a 100%)
+    pct_aparece = min(2.0, (0.05 / duracao_ciclo) * 100)
+    pct_visivel_ate = ((tempo_digitando + TEMPO_VISIVEL) / duracao_ciclo) * 10
