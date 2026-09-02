@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 356 324" font-family="monospace" font-size="8">
+<style>.linha { fill: #e0dada; opacity: 0; white-space: pre; }</style>
+<rect width="100%" height="100%" fill="#212122" />
+<text x="10" y="15.0" class="linha">=====*##########%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%<animate attributeName="opacity" from="0" to="1" begin="0.00s" dur="0.15s" fill="freeze" /></text>
+<text x="10" y="23.0" class="linha">=====*###########%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%@@@<animate attributeName="opacity" from="0" to="1" begin="0.05s" dur="0.15s" fill="freeze" /></text>
+<text x="10" y="31.0" class="linha">=====*###########%%%%%%%%%%%%%%%%#*#####%%%%%%%%%%%%%%%%%%%%%%%%@@@@@@<animate attributeName="opacity" from="0" to="1" begin="0.10s" dur="0.15s" fill="freeze" /></text>
+<text x="10" y="39.0" class="linha">=====*###########%%%%%%%%%%%##=-:..:::===+#%%%%%%%%%%%%%%%%%%%%%@@@@@@<animate attributeName="opacity" from="0" to="1" begin="0.15s" dur="0.15s" fill="freeze" /></text>
+<text x="10" y="47.0" class="linha">=====*###########%%%%%%%%%#+-:          ..-*#%%%%%%%%%%%%%%%%%%%@@@@@@<animate attributeName="opacity" from="0" to="1" begin="0.20s" dur="0.15s" fill="freeze" /></text>
+<text x="10" y="55.0" class="linha">=====*###########%%%%%%%%*+.               .:#%%%%%%%%%%%%%%%%%%@@@@@@<animate attributeName="opacity" from="0" to="1" begin="0.25s" dur="0.15s" fill="freeze" /></text>
+<text x="10" y="63.0" class="linha">=====*###########%%%%%%%=                   .-*%%%%%%%%%%%%%%%%@@@@@@@<animate attributeName="opacity" from="0" to="1" begin="0.30s" dur="0.15s" fill="freeze" /></text>
+<text x="10" y="71.0" class="linha">=====*##########%%%%%%*-       ..:.:..  .     :#%%%%%%%%%%%%%%@@@@@@@@<animate attributeName="opacity" from="0" to="1" begin="0.35s" dur="0.15s" fill="freeze" /></text>
+<text x="10" y="79.0" class="linha">=====*##########%%%%%%=     .:---========:     -%%%%%%%%%%%%%@@@@@@@@@<animate attributeName="opacity" from="0" to="1" begin="0.40s" dur="0.15s" fill="freeze" /></text>
+<text x="10" y="87.0" class="linha">=====*##########%%%%%=    .:-=====++++++++-.   .+%%%%%%%%%%%%@@@@@@@@@<animate attributeName="opacity" from="0" to="1" begin="0.45s" dur="0.15s" fill="freeze" /></text>
+<text x="10" y="95.0" class="linha">=====*##########%%%%*:   .::----=++++++++**+-   :#%%%%%%%%%%@@@@@@@@@@<animate attributeName="opacity" from="0" to="1" begin="0.50s" dur="0.15s" fill="freeze" /></text>
+<text x="10" y="103.0" class="linha">=====+#########%%%%%%-   ::::::--=++*+=----=+- .-#%%%%%%%%%%%%@@@@@@@@<animate attributeName="opacity" from="0" to="1" begin="0.55s" dur="0.15s" fill="freeze" /></text>
+<text x="10" y="111.0" class="linha">=====+##########%%%%%+  :-----:--==+*+=-==++++.:#%%%%%%%%%%%%@@@@@@@@@<animate attributeName="opacity" from="0" to="1" begin="0.60s" dur="0.15s" fill="freeze" /></text>
+<text x="10" y="119.0" class="linha">=====+##########%%%%%%=.--......:-=++=:.:-=+**-*%%%%%%%%%%%%%@@@@@@@@@<animate attributeName="opacity" from="0" to="1" begin="0.65s" dur="0.15s" fill="freeze" /></text>
+<text x="10" y="127.0" class="linha">=====+##########%%%%%%+----------=+**++=---=+**%%%%%%%%%%%%%%@@@@@@@@@<animate attributeName="opacity" from="0" to="1" begin="0.70s" dur="0.15s" fill="freeze" /></text>
+<text x="10" y="135.0" class="linha">=====+*#########%%%%%+--==========+****++++****%%%%%%%%%%%%%%@@@@@@@@@<animate attributeName="opacity" from="0" to="1" begin="0.75s" dur="0.15s" fill="freeze" /></text>
+<text x="10" y="143.0" class="linha">=====+###########%%%%+--========:-++-++++*****+#%%%%%%%%%%@@%@@@@@@@@@<animate attributeName="opacity" from="0" to="1" begin="0.80s" dur="0.15s" fill="freeze" /></text>
+<text x="10" y="151.0" class="linha">=====+###########%%%%*--======---=+++=+++*****+%%%%%%%%%%%%%%@@@@@@@@@<animate attributeName="opacity" from="0" to="1" begin="0.85s" dur="0.15s" fill="freeze" /></text>
+<text x="10" y="159.0" class="linha">======###########%%%%#+=-==------====++++******%%%%%%%%%%%@%%@@@@@@@@@<animate attributeName="opacity" from="0" to="1" begin="0.90s" dur="0.15s" fill="freeze" /></text>
+<text x="10" y="167.0" class="linha">=====+###########%%%%%%*-==--::----=====++***#%%%%%%%%%%%%%@%@@@@@@@@@<animate attributeName="opacity" from="0" to="1" begin="0.95s" dur="0.15s" fill="freeze" /></text>
+<text x="10" y="175.0" class="linha">======*##########%%%%%%%=---==-======++++***#%%%%%%%%%%%%%%%%%@@@@@@@@<animate attributeName="opacity" from="0" to="1" begin="1.00s" dur="0.15s" fill="freeze" /></text>
+<text x="10" y="183.0" class="linha">======*###########%%%%%%#=--========++*****#%%%%%%%%%%%%%%%%%%%@@@@@@@<animate attributeName="opacity" from="0" to="1" begin="1.05s" dur="0.15s" fill="freeze" /></text>
+<text x="10" y="191.0" class="linha">======*############%%%%%%=---===+++++***++*%%%%%%%%%%%%%%%@%%%%@@@@@@@<animate attributeName="opacity" from="0" to="1" begin="1.10s" dur="0.15s" fill="freeze" /></text>
+<text x="10" y="199.0" class="linha">======*##############%%%#=----==++++++++++*%%%%%%%%%%%%%%%%%%%%@@@@@@@<animate attributeName="opacity" from="0" to="1" begin="1.15s" dur="0.15s" fill="freeze" /></text>
+<text x="10" y="207.0" class="linha">======*###############%=.--------====++++*++%%%%%%%%%%%%%%%%%%@@@@@@@@<animate attributeName="opacity" from="0" to="1" begin="1.20s" dur="0.15s" fill="freeze" /></text>
+<text x="10" y="215.0" class="linha">======**#############%+  -=--=====++++++**+.*%%%%%%%%%%%%%%%%%%@@@@@@@<animate attributeName="opacity" from="0" to="1" begin="1.25s" dur="0.15s" fill="freeze" /></text>
+<text x="10" y="223.0" class="linha">======*##############+. .-======++++*****+: .-*%%%%%%%%%%%%%%%%%@@@@@@<animate attributeName="opacity" from="0" to="1" begin="1.30s" dur="0.15s" fill="freeze" /></text>
+<text x="10" y="231.0" class="linha">======*###########+=.    :======+++***++=:     -*%%%%%%%%%%%%%%%%@@@@@<animate attributeName="opacity" from="0" to="1" begin="1.35s" dur="0.15s" fill="freeze" /></text>
+<text x="10" y="239.0" class="linha">======***####*+=:.       .-=====++++++=-.        .-*#%@%%%%%%%%%%%%%@@<animate attributeName="opacity" from="0" to="1" begin="1.40s" dur="0.15s" fill="freeze" /></text>
+<text x="10" y="247.0" class="linha">======*##*+=:.            .--===+++==-.             .-*#%@@@%%%%%%%%%%<animate attributeName="opacity" from="0" to="1" begin="1.45s" dur="0.15s" fill="freeze" /></text>
+<text x="10" y="255.0" class="linha">=====-+=:                  .--====-:.                   -+*%%@@%%%%%%%<animate attributeName="opacity" from="0" to="1" begin="1.50s" dur="0.15s" fill="freeze" /></text>
+<text x="10" y="263.0" class="linha">===-.                       .----:.                        .:+#%%%@%%%<animate attributeName="opacity" from="0" to="1" begin="1.55s" dur="0.15s" fill="freeze" /></text>
+<text x="10" y="271.0" class="linha">==-                           ..                               .:-+%%%<animate attributeName="opacity" from="0" to="1" begin="1.60s" dur="0.15s" fill="freeze" /></text>
+<text x="10" y="279.0" class="linha">=-                                                                .=##<animate attributeName="opacity" from="0" to="1" begin="1.65s" dur="0.15s" fill="freeze" /></text>
+<text x="10" y="287.0" class="linha">-                                                                   :=<animate attributeName="opacity" from="0" to="1" begin="1.70s" dur="0.15s" fill="freeze" /></text>
+<text x="10" y="295.0" class="linha">.                                                                     <animate attributeName="opacity" from="0" to="1" begin="1.75s" dur="0.15s" fill="freeze" /></text>
+<text x="10" y="303.0" class="linha">                                                                      <animate attributeName="opacity" from="0" to="1" begin="1.80s" dur="0.15s" fill="freeze" /></text>
+<text x="10" y="311.0" class="linha">                                                                      <animate attributeName="opacity" from="0" to="1" begin="1.85s" dur="0.15s" fill="freeze" /></text>
+</svg>
