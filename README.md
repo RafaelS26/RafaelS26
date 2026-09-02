@@ -17,11 +17,10 @@
      ============================================================ -->
 <table>
 <tr>
-<td width="350" valign="top">
+<td width="360" valign="top">
   <img src="https://raw.githubusercontent.com/RafaelS26/RafaelS26/main/avi-ascii.svg?v=2" alt="Retrato ASCII" width="320" />
 </td>
 <td valign="top">
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF41&center=false&vCenter=true&width=400&height=40&lines=%3E+sobre+mim" alt="Sobre mim" /> 
 
 Ex-pintor industrial que migrou para a Análise de Dados aplicando a mesma disciplina e atenção aos detalhes da indústria na resolução de problemas de negócio.
